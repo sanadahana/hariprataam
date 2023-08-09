@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Hari Prataam Blog"
-theme = "whiteplain"
+theme = "mencoba-whiteplain"
 languageCode = "en"
 # Disqus shortname
 disqusShortname = "Shortname"

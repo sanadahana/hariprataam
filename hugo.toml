@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://hariprataam.pages.dev/"
 title = "Hari Prataam Blog"
 theme = "whiteplain"
 languageCode = "en"
